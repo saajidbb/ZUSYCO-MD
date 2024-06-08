@@ -1,12 +1,12 @@
 {
-    "name": "ZUSYCO-MD",
-    "description": "This is an ZUSYCO-MD whatsapp bot created by mr nima.",
-    "repository": "https://github.com/DarkMakerofc/ZUSYCO-MD",
-    "logo": "https://telegra.ph/file/a3cb3587e86dd31a0bc3d.jpg",
+    "name": "KING SAAJI",
+    "description": "This is an KING SAAJI whatsapp bot created by mr nima.",
+    "repository": "https://github.com/saajidbb/ZUSYCO-MD",
+    "logo": "https://ibb.co/4wqRCCN",
     "keywords": [
         "nodejs",
         "Bot",
-        "WhatsApp ZUSYCO-MD Bot"
+        "WhatsApp KING SAAJI Bot"
     ],
     "buildpacks": [
         {
